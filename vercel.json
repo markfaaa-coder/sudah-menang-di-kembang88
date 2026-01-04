@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.olx.co.id/",
+      "permanent": true
+    },
+    {
+      "source": "/sudah-menang-80168",
+      "destination": "https://www.google.com/",
+      "permanent": true
+    }
+  ]
+}
